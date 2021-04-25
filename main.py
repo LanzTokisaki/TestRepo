@@ -2,7 +2,7 @@
 
 def my_function():
     print("This is my function!")
-    print("Exiting function")
+    print("Exiting functidon")
 
 
 if __name__ == "__main__":
