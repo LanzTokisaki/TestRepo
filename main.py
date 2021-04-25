@@ -1,9 +1,6 @@
 
 
-def my_function():
-    print("This is my function!")
-    print("Exiting functidon")
+def print_value(value):
+    print(value)
 
 
-if __name__ == "__main__":
-    my_function()
